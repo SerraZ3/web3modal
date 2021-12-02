@@ -25,6 +25,6 @@ const providerOptions = {
 };
 ```
 
-[See the full list of options for WalletConnect Web3 provider](https://docs.walletconnect.org/quick-start/dapps/web3-provider).
+[See the full list of options for WalletConnect Web3 provider](https://docs.walletconnect.com/1.0/quick-start/dapps/web3-provider).
 
 **Note:** A WalletConnect instance is available on the provider as `provider.wc`
